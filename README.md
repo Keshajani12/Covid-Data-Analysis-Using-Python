@@ -23,7 +23,7 @@ The COVID-19 pandemic has generated a vast amount of data, and this script allow
 # Installation
 
 1. Clone this repository:
-git clone https://github.com/Keshajani12/Covid-Analysis-Using-Python.git
+git clone https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python.git
 
 2. Navigate to the project directory:
 cd covid-analysis
