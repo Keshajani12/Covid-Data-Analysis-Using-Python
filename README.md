@@ -60,3 +60,18 @@ The COVID-19 data is loaded from the 'covid_19_india.csv' file. Ensure that the 
 
 # Screenshots
 
+![Figure_1](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/fbf7fcc7-6afe-43fc-b099-8b4690713c53)
+
+![2](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/717dc330-d5bb-426f-ba2d-13e89fae62e4)
+
+![3](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/305ed767-6ca5-4415-b0d1-c75c63231386)
+
+![4](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/49fbf87e-5db4-49d1-a9d8-09881fc31c5b)
+
+![5](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/8abd5084-8f20-4c73-827d-6f31a5389852)
+
+![6](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/4444eee7-b080-4588-9346-dcdf5ca00df0)
+
+![7](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/d43c7071-abd0-4f06-8d95-3ec310e88c25)
+
+![8](https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python/assets/143489586/54febbd2-e019-4474-a2b8-13be7c2ccf41)
