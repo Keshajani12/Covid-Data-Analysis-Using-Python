@@ -26,7 +26,7 @@ The COVID-19 pandemic has generated a vast amount of data, and this script allow
 git clone https://github.com/Keshajani12/Covid-Data-Analysis-Using-Python.git
 
 2. Navigate to the project directory:
-cd covid-analysis
+cd Covid
 
 3. Install the required Python packages using pip:
 pip install pandas numpy matplotlib seaborn scikit-learn
